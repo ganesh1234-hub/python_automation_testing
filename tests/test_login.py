@@ -12,3 +12,5 @@ if a:
 else:
     print("failed")
 
+def forgot_password(self):
+    print("Forgot password clicked")
